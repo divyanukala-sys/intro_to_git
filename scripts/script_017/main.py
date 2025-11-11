@@ -1,2 +1,2 @@
 name = 'Echo'
-print('Hello ' + Name)
+print('Hello ' + name)
